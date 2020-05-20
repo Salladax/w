@@ -13,7 +13,7 @@ details.ontoggle = function () {
 			if (! notFirstTime) {
 				notFirstTime = 1
 			}
-		}, notFirstTime * 90) 
+		}, notFirstTime * 50) 
 
 	}
 	else {
